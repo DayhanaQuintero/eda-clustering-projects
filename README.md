@@ -3,6 +3,9 @@
 Collection of exploratory data analysis and clustering 
 projects applied to real-world datasets.
 
+## Purpose
+This repository showcases clustering techniques applied to different business scenarios such as customer segmentation and HR analytics.
+
 ## Projects
 
 ### 1. HR Analytics EDA
